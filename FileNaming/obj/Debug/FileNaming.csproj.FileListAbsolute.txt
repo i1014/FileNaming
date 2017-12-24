@@ -4,3 +4,9 @@ C:\Users\Ian\Documents\GitHub\FileNaming\FileNaming\bin\Debug\FileNaming.pdb
 C:\Users\Ian\Documents\GitHub\FileNaming\FileNaming\obj\Debug\FileNaming.csprojResolveAssemblyReference.cache
 C:\Users\Ian\Documents\GitHub\FileNaming\FileNaming\obj\Debug\FileNaming.exe
 C:\Users\Ian\Documents\GitHub\FileNaming\FileNaming\obj\Debug\FileNaming.pdb
+C:\Users\ianof\Github\FileNaming\FileNaming\bin\Debug\FileNaming.exe.config
+C:\Users\ianof\Github\FileNaming\FileNaming\bin\Debug\FileNaming.exe
+C:\Users\ianof\Github\FileNaming\FileNaming\bin\Debug\FileNaming.pdb
+C:\Users\ianof\Github\FileNaming\FileNaming\obj\Debug\FileNaming.csprojResolveAssemblyReference.cache
+C:\Users\ianof\Github\FileNaming\FileNaming\obj\Debug\FileNaming.exe
+C:\Users\ianof\Github\FileNaming\FileNaming\obj\Debug\FileNaming.pdb

@@ -69,7 +69,7 @@ namespace FileNaming
                 }
 
                 Console.WriteLine(temp);
-                var newPath = path + "\\output\\" + temp + ext;
+                var newPath = path + "\\..\\output\\" + temp + ext;
                 Directory.Move(file, newPath);
             }
 
@@ -110,7 +110,7 @@ namespace FileNaming
                 }
 
                 Console.WriteLine(temp);
-                var newPath = path + "\\output\\" + temp + ext;
+                var newPath = path + "\\..\\output\\" + temp + ext;
                 Directory.Move(file, newPath);
             }
 
